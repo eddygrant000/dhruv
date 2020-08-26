@@ -7,3 +7,6 @@ def hello():
 def parsefile(filename):
     fh = open(filename)
     print(fh.read())
+
+def bye():
+  print('hi all')
